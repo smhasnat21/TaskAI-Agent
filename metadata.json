@@ -1,0 +1,5 @@
+{
+  "name": "TaskAI Agent",
+  "description": "A smart task management dashboard powered by Gemini. Use natural language to add, update, and organize your daily to-do list.",
+  "requestFramePermissions": []
+}
